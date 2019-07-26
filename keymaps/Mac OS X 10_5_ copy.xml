@@ -1,0 +1,7 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ReformatCode" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage" />
+</keymap>
