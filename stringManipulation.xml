@@ -1,9 +1,10 @@
 <application>
   <component name="StringManipulationState">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="21" />
-      </DonationNagger>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="baseComparator" value="LOCALE_COLLATOR" />
+        <option name="sortType" value="CASE_SENSITIVE_A_Z" />
+      </SortSettings>
     </option>
   </component>
 </application>
