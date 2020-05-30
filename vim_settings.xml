@@ -45,11 +45,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590822578879">
+      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590823068365">
         <mark key="[" line="28" column="3" />
-        <mark key="]" line="28" column="2" />
-        <mark key="^" line="28" column="2" />
-        <mark key="." line="28" column="1" />
+        <mark key="]" line="3" column="52" />
+        <mark key="^" line="3" column="52" />
+        <mark key="." line="3" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackMemberPoster.scala" timestamp="1590814045185">
         <mark key="'" line="21" column="0" />
@@ -79,10 +79,10 @@
         <text encoding="base64">ZGVmIGdldFByb2ZpbGUobWVtYmVySWQ6IFN0cmluZyk6IEZ1dHVyZVtNZW1iZXJQcm9maWxlUmVzcG9uc2VdID0gewogICAgdmFsIHJlcXVlc3RQYXJhbU1hcCA9IE1hcCgidXNlciIgLT4gbWVtYmVySWQpCiAgICBnZXQoInVzZXJzLnByb2ZpbGUuZ2V0Iiwgc2xhY2tBcGlUb2tlbiwgcmVxdWVzdFBhcmFtTWFwLCB3cykuZmxhdE1hcCB7CiAgICAgIHJlc3BvbnNlID0+CiAgICAgICAgRnV0dXJlLmZyb21UcnkoCiAgICAgICAgICBwYXJzZVtNZW1iZXJQcm9maWxlUmVzcG9uc2VdKHJlc3BvbnNlLmpzb24pCiAgICAgICAgKQogICAgfQogIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIGdldFByb2ZpbGUobWVtYmVySWQ6IFN0cmluZyk6IEZ1dHVyZVtNZW1iZXJQcm9maWxlUmVzcG9uc2VdID0gewogICAgdmFsIHJlcXVlc3RQYXJhbU1hcCA9IE1hcCgidXNlciIgLT4gbWVtYmVySWQpCiAgICBnZXQoInVzZXJzLnByb2ZpbGUuZ2V0Iiwgc2xhY2tBcGlUb2tlbiwgcmVxdWVzdFBhcmFtTWFwLCB3cykuZmxhdE1hcCB7CiAgICAgIHJlc3BvbnNlID0+CiAgICAgICAgRnV0dXJlLmZyb21UcnkoCiAgICAgICAgICBwYXJzZVtNZW1iZXJQcm9maWxlUmVzcG9uc2VdKHJlc3BvbnNlLmpzb24pCiAgICAgICAgKQogICAgfQogIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
