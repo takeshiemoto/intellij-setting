@@ -8,7 +8,12 @@
     <history>
       <history-search>
         <entry>def</entry>
+        <entry encoding="base64">XDxwbGF5XD4=</entry>
+        <entry encoding="base64">XDxzY2FsYVw+</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -63,7 +68,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590876243502">
+      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590876742914">
+        <mark key="'" line="4" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="0" column="0" />
@@ -96,6 +102,9 @@
       <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
       <jump line="5" column="12" filename="$USER_HOME$/Downloads/WDB112-Toku3-Scala/slack-random-pick/app/slack_apis/SlackChannelMemberGetter.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/WDB112-Toku3-Scala/slack-random-pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="2" column="7" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="5" column="7" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="4" column="7" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -107,7 +116,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>def</text>
+        <text encoding="base64">XDxzY2FsYVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGFja2FnZSBzbGFja19hcGlzCgppbXBvcnQgcGxheS5hcGkubGlicy53cy5fCgppbXBvcnQgc2NhbGEuY29uY3VycmVudC5FeGVjdXRpb25Db250ZXh0LkltcGxpY2l0cy5fCmltcG9ydCBzY2FsYS5jb25jdXJyZW50LkZ1dHVyZQoKY2xhc3MgU2xhY2tDaGFubmVsTWVtYmVyR2V0dGVyKHZhbCBzbGFja0FwaVRva2VuOiBTdHJpbmcsIHZhbCB3czogV1NDbGllbnQpCiAgICBleHRlbmRzIFNsYWNrR2V0dGFibGUKICAgIHdpdGggU2xhY2tSZXNwb25zZUpzb25QYXJzYWJsZSB7CiAgZGVmIGdldE1lbWJlcklkc0J5KGNoYW5uZWxJZDogU3RyaW5nKTogRnV0dXJlW01lbWJlcnNSZXNwb25zZV0gPSB7CiAgICB2YWwgcmVxdWVzdFBhcmFtTWFwID0gTWFwKCJjaGFubmVsIiAtPiBjaGFubmVsSWQpCiAgICBnZXQoImNvbnZlcnNhdGlvbnMubWVtYmVycyIsIHNsYWNrQXBpVG9rZW4sIHJlcXVlc3RQYXJhbU1hcCwgd3MpLmZsYXRNYXAgeyByZXNwb25zZSA9PgogICAgICBGdXR1cmUuZnJvbVRyeShwYXJzZVtNZW1iZXJzUmVzcG9uc2VdKHJlc3BvbnNlLmpzb24pKQogICAgfQogIH0KCiAgZGVmIGdldFByb2ZpbGUobWVtYmVySWQ6IFN0cmluZyk6IEZ1dHVyZVtNZW1iZXJQcm9maWxlUmVzcG9uc2VdID0gewogICAgdmFsIHJlcXVlc3RQYXJhbU1hcCA9IE1hcCgidXNlciIgLT4gbWVtYmVySWQpCiAgICBnZXQoInVzZXJzLnByb2ZpbGUuZ2V0Iiwgc2xhY2tBcGlUb2tlbiwgcmVxdWVzdFBhcmFtTWFwLCB3cykuZmxhdE1hcCB7IHJlc3BvbnNlID0+CiAgICAgIEZ1dHVyZS5mcm9tVHJ5KHBhcnNlW01lbWJlclByb2ZpbGVSZXNwb25zZV0ocmVzcG9uc2UuanNvbikpCiAgICB9CiAgfQp9Cg==</text>
@@ -146,9 +155,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>def</last-search>
+      <last-search encoding="base64">XDxzY2FsYVw+</last-search>
       <last-offset />
-      <last-pattern>def</last-pattern>
+      <last-pattern encoding="base64">XDxzY2FsYVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
