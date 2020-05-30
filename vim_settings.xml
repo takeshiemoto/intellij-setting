@@ -45,9 +45,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590815772363">
-        <mark key="'" line="29" column="1" />
-        <mark key="^" line="27" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590816553620">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="2" />
+        <mark key="^" line="20" column="2" />
+        <mark key="." line="20" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackMemberPoster.scala" timestamp="1590814045185">
         <mark key="'" line="21" column="0" />
@@ -65,8 +68,9 @@
       <jump line="31" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
       <jump line="24" column="8" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
       <jump line="35" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
       <jump line="29" column="1" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="16" column="8" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
