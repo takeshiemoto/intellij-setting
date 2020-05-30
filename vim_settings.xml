@@ -45,12 +45,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590817156244">
+      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590818333411">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="20" column="1" />
-        <mark key="." line="0" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackMemberPoster.scala" timestamp="1590814045185">
         <mark key="'" line="21" column="0" />
