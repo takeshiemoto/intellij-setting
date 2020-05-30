@@ -46,11 +46,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Downloads/WDB112-Toku3-Scala/slack-random-pick/app/controllers/RandomPickController.scala" timestamp="1590874961632" />
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/controllers/RandomPickController.scala" timestamp="1590875021429">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/controllers/RandomPickController.scala" timestamp="1590875089335">
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="38" column="37" />
         <mark key="^" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="." line="38" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590823068365">
         <mark key="[" line="28" column="3" />
@@ -58,7 +58,13 @@
         <mark key="^" line="3" column="52" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackMemberPoster.scala" timestamp="1590814045185">
+      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/conf/routes" timestamp="1590875290174">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="8" />
+        <mark key="^" line="11" column="8" />
+        <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackMemberPoster.scala" timestamp="1590875067818">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -83,10 +89,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>postMembersToChannel</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>postMembersToChannel</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>def</text>
