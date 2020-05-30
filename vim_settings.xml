@@ -4,18 +4,50 @@
       <key-repeat enabled="true" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>def</entry>
+      </history-search>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590814682770">
-        <mark key="'" line="10" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590815772363">
+        <mark key="'" line="29" column="1" />
+        <mark key="^" line="27" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackMemberPoster.scala" timestamp="1590814045185">
         <mark key="'" line="21" column="0" />
@@ -28,30 +60,61 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackMemberPoster.scala" />
       <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackMemberPoster.scala" />
       <jump line="10" column="6" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="18" column="2" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="30" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="31" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="24" column="8" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="35" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="29" column="1" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBzbGFja19hcGlzCg==</text>
+        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBzbGFja19hcGlzCg==</text>
+        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBIZWxsbyhtZXNzYWdlOiBTdHJpbmcpIHsK</text>
+        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YX0K</text>
+        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
+      </register>
+      <register name="/" type="4">
+        <text>def</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>def</last-search>
+      <last-offset />
+      <last-pattern>def</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
