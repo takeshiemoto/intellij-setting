@@ -45,12 +45,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590818943448">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590822578879">
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="28" column="2" />
+        <mark key="^" line="28" column="2" />
+        <mark key="." line="28" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackMemberPoster.scala" timestamp="1590814045185">
         <mark key="'" line="21" column="0" />
@@ -70,20 +69,20 @@
       <jump line="35" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
       <jump line="16" column="8" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
       <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
-      <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
+      <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIGdldFByb2ZpbGUobWVtYmVySWQ6IFN0cmluZyk6IEZ1dHVyZVtNZW1iZXJQcm9maWxlUmVzcG9uc2VdID0gewogICAgdmFsIHJlcXVlc3RQYXJhbU1hcCA9IE1hcCgidXNlciIgLT4gbWVtYmVySWQpCiAgICBnZXQoInVzZXJzLnByb2ZpbGUuZ2V0Iiwgc2xhY2tBcGlUb2tlbiwgcmVxdWVzdFBhcmFtTWFwLCB3cykuZmxhdE1hcCB7CiAgICAgIHJlc3BvbnNlID0+CiAgICAgICAgRnV0dXJlLmZyb21UcnkoCiAgICAgICAgICBwYXJzZVtNZW1iZXJQcm9maWxlUmVzcG9uc2VdKHJlc3BvbnNlLmpzb24pCiAgICAgICAgKQogICAgfQogIH0=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmIGdldFByb2ZpbGUobWVtYmVySWQ6IFN0cmluZyk6IEZ1dHVyZVtNZW1iZXJQcm9maWxlUmVzcG9uc2VdID0gewogICAgdmFsIHJlcXVlc3RQYXJhbU1hcCA9IE1hcCgidXNlciIgLT4gbWVtYmVySWQpCiAgICBnZXQoInVzZXJzLnByb2ZpbGUuZ2V0Iiwgc2xhY2tBcGlUb2tlbiwgcmVxdWVzdFBhcmFtTWFwLCB3cykuZmxhdE1hcCB7CiAgICAgIHJlc3BvbnNlID0+CiAgICAgICAgRnV0dXJlLmZyb21UcnkoCiAgICAgICAgICBwYXJzZVtNZW1iZXJQcm9maWxlUmVzcG9uc2VdKHJlc3BvbnNlLmpzb24pCiAgICAgICAgKQogICAgfQogIH0=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gaGVsbG8gd29ybGQK</text>
