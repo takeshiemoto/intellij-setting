@@ -57,12 +57,16 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/WDB112-Toku3-Scala/slack-random-pick/app/controllers/RandomPickController.scala" timestamp="1590874961632" />
-      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/generator.ts" timestamp="1590878026134">
-        <mark key="'" line="38" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/generator.ts" timestamp="1590878074665">
+        <mark key="'" line="46" column="12" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="2" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1590878135686">
+        <mark key="'" line="35" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/MemberProfileResponse.scala" timestamp="1590876158757" />
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/controllers/RandomPickController.scala" timestamp="1590875089335">
@@ -123,6 +127,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/generator.ts" />
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/generator.ts" />
       <jump line="40" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/generator.ts" />
+      <jump line="43" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/generator.ts" />
+      <jump line="46" column="12" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/generator.ts" />
+      <jump line="44" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="21" column="11" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="32" column="34" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="35" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -165,192 +175,59 @@
       </register>
       <register name="w" type="4">
         <keys>
+          <key char="101" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
           <key char="48" code="0" mods="0" />
           <key char="48" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
+          <key char="57" code="0" mods="0" />
           <key char="111" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="165" code="0" mods="0" />
           <key char="65535" code="8" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
           <key char="65535" code="8" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
