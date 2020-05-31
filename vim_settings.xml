@@ -68,12 +68,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1590962054502">
+      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1590965152998">
         <mark key="'" line="13" column="2" />
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="5" />
-        <mark key="^" line="55" column="39" />
-        <mark key="." line="55" column="5" />
+        <mark key="[" line="87" column="32" />
+        <mark key="]" line="87" column="26" />
+        <mark key="^" line="87" column="26" />
+        <mark key="." line="87" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/MemberProfileResponse.scala" timestamp="1590876158757" />
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/controllers/RandomPickController.scala" timestamp="1590875089335">
@@ -147,16 +147,18 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>にんじん</text>
+        <text>Shop</text>
       </register>
       <register name="-" type="4">
-        <text>にんじん</text>
+        <text>Shop</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBzaG93UHJvZHVjdHMoKTogdm9pZCB7CiAgICBjb25zb2xlLmxvZyh0aGlzLnByb2R1Y3RzKTsKICB9Cg==</text>
+      <register name="0" type="4">
+        <text>enter() {
+    console.log('Shop enter!');
+  }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
