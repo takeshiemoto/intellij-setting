@@ -68,12 +68,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1590894185497">
+      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1590962054502">
         <mark key="'" line="13" column="2" />
-        <mark key="[" line="55" column="37" />
-        <mark key="]" line="55" column="39" />
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="5" />
         <mark key="^" line="55" column="39" />
-        <mark key="." line="55" column="38" />
+        <mark key="." line="55" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/MemberProfileResponse.scala" timestamp="1590876158757" />
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/controllers/RandomPickController.scala" timestamp="1590875089335">
