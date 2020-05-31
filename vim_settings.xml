@@ -11,6 +11,7 @@
         <entry encoding="base64">XDxwbGF5XD4=</entry>
         <entry encoding="base64">XDxzY2FsYVw+</entry>
         <entry encoding="base64">XDxwb2xsXD4=</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -46,6 +47,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -64,12 +68,8 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1590892077588">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="52" column="20" />
-        <mark key="." line="52" column="19" />
-        <mark key="^" line="52" column="20" />
+      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1590894095433">
+        <mark key="'" line="13" column="2" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/MemberProfileResponse.scala" timestamp="1590876158757" />
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/controllers/RandomPickController.scala" timestamp="1590875089335">
@@ -136,45 +136,47 @@
       <jump line="21" column="11" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="32" column="34" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="35" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="0" column="14" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="13" column="2" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgSHVtYW4gewo=</text>
+        <text encoding="base64">ICBzaG93UHJvZHVjdHMoKTogdm9pZCB7CiAgICBjb25zb2xlLmxvZyh0aGlzLnByb2R1Y3RzKTsKICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb2xsXD4=</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBzbGFja19hcGlzCgppbXBvcnQgcGxheS5hcGkubGlicy53cy5fCgppbXBvcnQgc2NhbGEuY29uY3VycmVudC5FeGVjdXRpb25Db250ZXh0LkltcGxpY2l0cy5fCmltcG9ydCBzY2FsYS5jb25jdXJyZW50LkZ1dHVyZQoKY2xhc3MgU2xhY2tDaGFubmVsTWVtYmVyR2V0dGVyKHZhbCBzbGFja0FwaVRva2VuOiBTdHJpbmcsIHZhbCB3czogV1NDbGllbnQpCiAgICBleHRlbmRzIFNsYWNrR2V0dGFibGUKICAgIHdpdGggU2xhY2tSZXNwb25zZUpzb25QYXJzYWJsZSB7CiAgZGVmIGdldE1lbWJlcklkc0J5KGNoYW5uZWxJZDogU3RyaW5nKTogRnV0dXJlW01lbWJlcnNSZXNwb25zZV0gPSB7CiAgICB2YWwgcmVxdWVzdFBhcmFtTWFwID0gTWFwKCJjaGFubmVsIiAtPiBjaGFubmVsSWQpCiAgICBnZXQoImNvbnZlcnNhdGlvbnMubWVtYmVycyIsIHNsYWNrQXBpVG9rZW4sIHJlcXVlc3RQYXJhbU1hcCwgd3MpLmZsYXRNYXAgeyByZXNwb25zZSA9PgogICAgICBGdXR1cmUuZnJvbVRyeShwYXJzZVtNZW1iZXJzUmVzcG9uc2VdKHJlc3BvbnNlLmpzb24pKQogICAgfQogIH0KCiAgZGVmIGdldFByb2ZpbGUobWVtYmVySWQ6IFN0cmluZyk6IEZ1dHVyZVtNZW1iZXJQcm9maWxlUmVzcG9uc2VdID0gewogICAgdmFsIHJlcXVlc3RQYXJhbU1hcCA9IE1hcCgidXNlciIgLT4gbWVtYmVySWQpCiAgICBnZXQoInVzZXJzLnByb2ZpbGUuZ2V0Iiwgc2xhY2tBcGlUb2tlbiwgcmVxdWVzdFBhcmFtTWFwLCB3cykuZmxhdE1hcCB7IHJlc3BvbnNlID0+CiAgICAgIEZ1dHVyZS5mcm9tVHJ5KHBhcnNlW01lbWJlclByb2ZpbGVSZXNwb25zZV0ocmVzcG9uc2UuanNvbikpCiAgICB9CiAgfQp9Cg==</text>
+        <text encoding="base64">ICBzaG93UHJvZHVjdHMoKTogdm9pZCB7CiAgICBjb25zb2xlLmxvZyh0aGlzLnByb2R1Y3RzKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgSHVtYW4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cG9sbC5uZXh0KCkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocG9sbC5uZXh0KCkpOwpjb25zb2xlLmxvZyhwb2xsLm5leHQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>feat: Added SlackMemberPoster</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>d</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -234,18 +236,18 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwb2xsXD4=</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb2xsXD4=</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
