@@ -18,6 +18,7 @@
         <entry>sp</entry>
         <entry>vs</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -68,8 +69,8 @@
       <file name="$USER_HOME$/IdeaProjects/geo-logic/mini-tokyo-3d/src/mini-tokyo-3d.js" timestamp="1590985880578">
         <mark key="'" line="868" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1591003914489">
-        <mark key="'" line="0" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1591004210878">
+        <mark key="'" line="74" column="0" />
         <mark key="[" line="52" column="20" />
         <mark key="]" line="52" column="18" />
         <mark key="^" line="52" column="18" />
@@ -85,7 +86,11 @@
         <mark key="'" line="1" column="20" />
         <mark key="[" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1591003963310" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1591004202578">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/jointcrew/lunchiru-api/scripts/dev/db-item-create-33.json" timestamp="1590974782289">
         <mark key="[" line="1" column="49" />
         <mark key="^" line="1" column="50" />
@@ -206,15 +211,16 @@
       <jump line="46" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="52" column="7" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
-      <jump line="55" column="4" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="63" column="4" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="0" column="14" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="55" column="10" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="74" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgU2hvcCB7CiAgY29uc3RydWN0b3IocHJpdmF0ZSBwcm9kdWN0czogUHJvZHVjdFtdID0gW10pIHt9CgogIHNob3dQcm9kdWN0cygpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKHRoaXMucHJvZHVjdHMpOwogIH0KCiAgZW50ZXIoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBlbnRlciEnKTsKICB9CgogIGV4aXQoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBFeGl0IScpOwogIH0KCn0K</text>
+        <text encoding="base64">bWFwIGc8Qy1OPiBnPEEtTj4K</text>
       </register>
       <register name="-" type="4">
         <text>User</text>
@@ -245,28 +251,28 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgU2hvcCB7CiAgY29uc3RydWN0b3IocHJpdmF0ZSBwcm9kdWN0czogUHJvZHVjdFtdID0gW10pIHt9CgogIHNob3dQcm9kdWN0cygpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKHRoaXMucHJvZHVjdHMpOwogIH0KCiAgZW50ZXIoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBlbnRlciEnKTsKICB9CgogIGV4aXQoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBFeGl0IScpOwogIH0KCn0K</text>
+        <text encoding="base64">bWFwIGc8Qy1OPiBnPEEtTj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZDMgZnJvbSAnZDMK</text>
+        <text encoding="base64">bWFwIDxDLVg+ICA8QS1YPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Q29sb3JzOiB7CiAgICAgICAgZHVyYXRpb246IDUwMDAsCiAgICAgICAgZWFzaW5nOiB0ID0+IHQqdCp0LAogICAgICAgIGVudGVyOiAoKSA9PiBbMjU1LCAxNDAsIDAsIDBdIGFzIGFueSwgLy8gZmFkZSBpbgogICAgICB9LAo=</text>
+        <text encoding="base64">bWFwIDxDLVA+ICA8QS1QPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRlcjogKHZhbHVlKSA9PiBbMF0gYXMgYW55LCAvLyDorI7jgIJudW1iZXLov5TjgZnjgajjgqLjg5fjg6rjgYzokL3jgaHjgosK</text>
+        <text encoding="base64">bWFwIDxDLU4+ICA8QS1OPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYW1waW5nOiAwLjE1LAo=</text>
+        <text encoding="base64">Y2xhc3MgU2hvcCB7CiAgY29uc3RydWN0b3IocHJpdmF0ZSBwcm9kdWN0czogUHJvZHVjdFtdID0gW10pIHt9CgogIHNob3dQcm9kdWN0cygpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKHRoaXMucHJvZHVjdHMpOwogIH0KCiAgZW50ZXIoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBlbnRlciEnKTsKICB9CgogIGV4aXQoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBFeGl0IScpOwogIH0KCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGlmZm5lc3M6IDAuMDEsCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgZDMgZnJvbSAnZDMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAnc3ByaW5nJywK</text>
+        <text encoding="base64">ICAgICAgZ2V0Q29sb3JzOiB7CiAgICAgICAgZHVyYXRpb246IDUwMDAsCiAgICAgICAgZWFzaW5nOiB0ID0+IHQqdCp0LAogICAgICAgIGVudGVyOiAoKSA9PiBbMjU1LCAxNDAsIDAsIDBdIGFzIGFueSwgLy8gZmFkZSBpbgogICAgICB9LAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -326,13 +332,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXllcnM9e3llcnN9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRlcjogKHZhbHVlKSA9PiBbMF0gYXMgYW55LCAvLyDorI7jgIJudW1iZXLov5TjgZnjgajjgqLjg5fjg6rjgYzokL3jgaHjgosK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGgxPmhlbGxvPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICBkYW1waW5nOiAwLjE1LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
