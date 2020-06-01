@@ -13,8 +13,8 @@
         <entry encoding="base64">XDxwb2xsXD4=</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
-        <entry encoding="base64">XDxpZFw+</entry>
         <entry>number</entry>
+        <entry encoding="base64">XDxpZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -71,8 +71,8 @@
       <file name="$USER_HOME$/IdeaProjects/geo-logic/mini-tokyo-3d/src/mini-tokyo-3d.js" timestamp="1590985880578">
         <mark key="'" line="868" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1591014573302">
-        <mark key="'" line="74" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1591016745642">
+        <mark key="'" line="27" column="9" />
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="12" />
         <mark key="^" line="21" column="12" />
@@ -217,6 +217,10 @@
       <jump line="0" column="14" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="55" column="10" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="74" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="22" column="3" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="1" column="2" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="26" column="14" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="27" column="9" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -228,7 +232,7 @@
         <text>number</text>
       </register>
       <register name="/" type="4">
-        <text>number</text>
+        <text encoding="base64">XDxpZFw+</text>
       </register>
       <register name="0" type="4">
         <text>serve(): void {
@@ -346,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>number</last-search>
+      <last-search encoding="base64">XDxpZFw+</last-search>
       <last-offset />
-      <last-pattern>number</last-pattern>
+      <last-pattern encoding="base64">XDxpZFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
