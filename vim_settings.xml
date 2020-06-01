@@ -12,6 +12,7 @@
         <entry encoding="base64">XDxzY2FsYVw+</entry>
         <entry encoding="base64">XDxwb2xsXD4=</entry>
         <entry>class</entry>
+        <entry encoding="base64">XDxjb25zdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -66,12 +67,12 @@
       <file name="$USER_HOME$/IdeaProjects/geo-logic/mini-tokyo-3d/src/mini-tokyo-3d.js" timestamp="1590985880578">
         <mark key="'" line="868" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1590995979606">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="3" />
-        <mark key="]" line="41" column="3" />
-        <mark key="^" line="41" column="3" />
-        <mark key="." line="41" column="2" />
+      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1591003223458">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="52" column="20" />
+        <mark key="]" line="52" column="18" />
+        <mark key="^" line="52" column="18" />
+        <mark key="." line="52" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/geo-works/apps/deck-gl-app/src/app/my-map/my-map.tsx" timestamp="1590973787188">
         <mark key="[" line="66" column="29" />
@@ -203,19 +204,21 @@
       <jump line="46" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="52" column="7" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="55" column="4" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="63" column="4" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="0" column="14" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>User</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgU2hvcCB7CiAgY29uc3RydWN0b3IocHJpdmF0ZSBwcm9kdWN0czogUHJvZHVjdFtdID0gW10pIHt9CgogIHNob3dQcm9kdWN0cygpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKHRoaXMucHJvZHVjdHMpOwogIH0KCiAgZW50ZXIoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBlbnRlciEnKTsKICB9CgogIGV4aXQoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBFeGl0IScpOwogIH0KCn0K</text>
       </register>
       <register name="-" type="4">
         <text>User</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text encoding="base64">XDxjb25zdFw+</text>
       </register>
       <register name="0" type="4">
         <text>serve(): void {
@@ -240,28 +243,28 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZDMgZnJvbSAnZDMK</text>
+        <text encoding="base64">Y2xhc3MgU2hvcCB7CiAgY29uc3RydWN0b3IocHJpdmF0ZSBwcm9kdWN0czogUHJvZHVjdFtdID0gW10pIHt9CgogIHNob3dQcm9kdWN0cygpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKHRoaXMucHJvZHVjdHMpOwogIH0KCiAgZW50ZXIoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBlbnRlciEnKTsKICB9CgogIGV4aXQoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBFeGl0IScpOwogIH0KCn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Q29sb3JzOiB7CiAgICAgICAgZHVyYXRpb246IDUwMDAsCiAgICAgICAgZWFzaW5nOiB0ID0+IHQqdCp0LAogICAgICAgIGVudGVyOiAoKSA9PiBbMjU1LCAxNDAsIDAsIDBdIGFzIGFueSwgLy8gZmFkZSBpbgogICAgICB9LAo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgZDMgZnJvbSAnZDMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRlcjogKHZhbHVlKSA9PiBbMF0gYXMgYW55LCAvLyDorI7jgIJudW1iZXLov5TjgZnjgajjgqLjg5fjg6rjgYzokL3jgaHjgosK</text>
+        <text encoding="base64">ICAgICAgZ2V0Q29sb3JzOiB7CiAgICAgICAgZHVyYXRpb246IDUwMDAsCiAgICAgICAgZWFzaW5nOiB0ID0+IHQqdCp0LAogICAgICAgIGVudGVyOiAoKSA9PiBbMjU1LCAxNDAsIDAsIDBdIGFzIGFueSwgLy8gZmFkZSBpbgogICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYW1waW5nOiAwLjE1LAo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRlcjogKHZhbHVlKSA9PiBbMF0gYXMgYW55LCAvLyDorI7jgIJudW1iZXLov5TjgZnjgajjgqLjg5fjg6rjgYzokL3jgaHjgosK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGlmZm5lc3M6IDAuMDEsCg==</text>
+        <text encoding="base64">ICAgICAgICBkYW1waW5nOiAwLjE1LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAnc3ByaW5nJywK</text>
+        <text encoding="base64">ICAgICAgICBzdGlmZm5lc3M6IDAuMDEsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXllcnM9e3llcnN9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiAnc3ByaW5nJywK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -321,10 +324,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGgxPmhlbGxvPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICBsYXllcnM9e3llcnN9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgPERlY2tHTAogICAgICAgIGluaXRpYWxWaWV3U3RhdGU9e2luaXRpYWxWaWV3U3RhdGV9CiAgICAgICAgY29udHJvbGxlcj17dHJ1ZX0KICAgICAgICBsYXllcnM9e2xheWVyRGF0YS5sYXllcnN9CiAgICAgICAgZWZmZWN0cz17W119CiAgICAgICAgd2lkdGg9IjEwMCUiCiAgICAgICAgaGVpZ2h0PSIxMDAlIgogICAgICA+CiAgICAgICAgPFN0YXRpY01hcAogICAgICAgICAgd2lkdGg9IjEwMCUiCiAgICAgICAgICBoZWlnaHQ9IjEwMCUiCiAgICAgICAgICBtYXBib3hBcGlBY2Nlc3NUb2tlbj17TUFQQk9YX0FDQ0VTU19UT0tFTn0KICAgICAgICAgIG1hcFN0eWxlPXtNQVBfU1RZTEV9CiAgICAgICAgLz4KICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3VwZGF0ZVBvaW50fT5TdGFydDwvYnV0dG9uPgogICAgICA8L0RlY2tHTD4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">PGgxPmhlbGxvPC9oMT4K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -333,12 +336,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>class</last-search>
+      <last-search encoding="base64">XDxjb25zdFw+</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>class</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
