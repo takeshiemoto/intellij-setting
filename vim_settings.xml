@@ -90,10 +90,11 @@
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/geo-logic/deckgl-sample/apps/deck-gl-app/src/app/my-map/my-map.tsx" timestamp="1590984983558">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/geo-logic/deckgl-sample/apps/deck-gl-app/src/app/my-map/my-map.tsx" timestamp="1590989621752">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="9" />
+        <mark key="." line="34" column="8" />
+        <mark key="^" line="34" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/data.ts" timestamp="1590974607183">
         <mark key="[" line="0" column="3" />
@@ -196,11 +197,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZDMgZnJvbSAnZDMK</text>
+      <register name="&quot;" type="4">
+        <text>new Date().toString()</text>
       </register>
       <register name="-" type="4">
-        <text>';</text>
+        <text>new Date().toString()</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
