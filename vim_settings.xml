@@ -24,6 +24,7 @@
         <entry encoding="base64">XDxwXD4=</entry>
         <entry encoding="base64">XDxoMlw+</entry>
         <entry>これ最高やん！</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -159,16 +160,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" timestamp="1591045891909">
+      <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" timestamp="1591046845521">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/WDB112-Toku3-Scala/slack-random-pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590876240764">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="23" column="1" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590876742914">
         <mark key="'" line="4" column="7" />
@@ -253,41 +250,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHtqCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>これ最高やん！</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>これ最高やん！</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHtqCg==</text>
+        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIFJlYWN0PC9oMT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIEFuZ3VsYXI8L2gxPgogICAgICA8aDE+SGVsbG8gVnVlPC9oMT4KICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHtqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIEFuZ3VsYXI8L2gxPgogICAgICA8aDE+SGVsbG8gVnVlPC9oMT4KICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImFwcCI+CiAgICAgIDxoMT7jgZPjgozmnIDpq5hw44KE44KT77yBPC9oMT4KICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+CiAgICAgIDxoMT7jgZPjgozmnIDpq5jjgoTjgpPvvIE8L2gxPgogICAgICA8aDE+44GT44KM5pyA6auY44KE44KT77yBPC9oMT4KICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+CiAgICA8L2Rpdj4KICApOwp9Owo=</text>
+        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImFwcCI+CiAgICAgIDxoMT7jgZPjgozmnIDpq5hw44KE44KT77yBPC9oMT4KICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+CiAgICAgIDxoMT7jgZPjgozmnIDpq5jjgoTjgpPvvIE8L2gxPgogICAgICA8aDE+44GT44KM5pyA6auY44KE44KT77yBPC9oMT4KICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+CiAgICA8L2Rpdj4KICApOwp9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaDIKICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgyPkkgbGlrZSB2aW08L2gyPgogICAgICA8aDI+SSBsaWtlIHZpbTwvaDI+CiAgICAgIDxoMj5JIGxpa2UgdmltPC9oMj4KICAgICAgPHA+SSBsaWtlIHZpbTwvcD4K</text>
+        <text encoding="base64">ICAgICAgaDIKICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -347,10 +344,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgyPkkgbGlrZSB2aW08L2gyPgogICAgICA8aDI+SSBsaWtlIHZpbTwvaDI+CiAgICAgIDxoMj5JIGxpa2UgdmltPC9oMj4KICAgICAgPHA+SSBsaWtlIHZpbTwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHA+SSBsaWtlIHZpbTwvcD4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -359,12 +356,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>これ最高やん！</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern>これ最高やん！</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>class</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
