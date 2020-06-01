@@ -60,7 +60,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/WDB112-Toku3-Scala/slack-random-pick/app/controllers/RandomPickController.scala" timestamp="1590874961632" />
       <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1590965152998">
         <mark key="'" line="13" column="2" />
         <mark key="[" line="87" column="32" />
@@ -74,7 +73,6 @@
         <mark key="^" line="67" column="23" />
         <mark key="." line="67" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/MemberProfileResponse.scala" timestamp="1590876158757" />
       <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/log1.ts" timestamp="1590973644526">
         <mark key="'" line="1" column="20" />
         <mark key="[" line="1" column="21" />
@@ -88,6 +86,12 @@
         <mark key="]" line="11" column="8" />
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/geo-logic/deckgl-sample/apps/deck-gl-app/src/app/my-map/my-map.tsx" timestamp="1590977436441">
+        <mark key="[" line="62" column="77" />
+        <mark key="]" line="81" column="17" />
+        <mark key="^" line="81" column="17" />
+        <mark key="." line="81" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/data.ts" timestamp="1590974607183">
         <mark key="[" line="0" column="3" />
@@ -186,10 +190,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiZGV2ZWxvcG1lbnQubHVuY2hpcnUuYXNoaXlhc2hpX2hvaWt1am9fbWVudXMiOiBdCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXllcnM9e3llcnN9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pk.eyJ1IjoiamVtb3R5IiwiYSI6ImNrYWI0NngycDEycmwyem1rdHZ2NWU5cWIifQ.RvKV8JDU-hB1Hu3HeUKOog'</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -200,15 +204,24 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiZGV2ZWxvcG1lbnQubHVuY2hpcnUuYXNoaXlhc2hpX2hvaWt1am9fbWVudXMiOiBdCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXllcnM9e3llcnN9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">WwogICAgCiAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">PGgxPmhlbGxvPC9oMT4K</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgICAgPERlY2tHTAogICAgICAgIGluaXRpYWxWaWV3U3RhdGU9e2luaXRpYWxWaWV3U3RhdGV9CiAgICAgICAgY29udHJvbGxlcj17dHJ1ZX0KICAgICAgICBsYXllcnM9e2xheWVyRGF0YS5sYXllcnN9CiAgICAgICAgZWZmZWN0cz17W119CiAgICAgICAgd2lkdGg9IjEwMCUiCiAgICAgICAgaGVpZ2h0PSIxMDAlIgogICAgICA+CiAgICAgICAgPFN0YXRpY01hcAogICAgICAgICAgd2lkdGg9IjEwMCUiCiAgICAgICAgICBoZWlnaHQ9IjEwMCUiCiAgICAgICAgICBtYXBib3hBcGlBY2Nlc3NUb2tlbj17TUFQQk9YX0FDQ0VTU19UT0tFTn0KICAgICAgICAgIG1hcFN0eWxlPXtNQVBfU1RZTEV9CiAgICAgICAgLz4KICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3VwZGF0ZVBvaW50fT5TdGFydDwvYnV0dG9uPgogICAgICA8L0RlY2tHTD4=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAiZGV2ZWxvcG1lbnQubHVuY2hpcnUuYXNoaXlhc2hpX2hvaWt1am9fbWVudXMiOiBdCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">WwogICAgCiAg</text>
+      </register>
+      <register name="6" type="4">
         <text>[
     {
       &quot;PutRequest&quot;: {
@@ -803,7 +816,7 @@
     }
   ]</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>[
     {
       &quot;PutRequest&quot;: {
@@ -1397,15 +1410,6 @@
       }
     }
   ]</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9saWIvYXJjLWxheWVyLWRhdGEnOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gU2NhdHRlcnBsb3RMYXllcueUqOOBq+ODh+ODvOOCv+WkieaPmwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gU2NhdHRlcnBsb3RMYXllcuOBruODneOCpOODs+ODiOOCteOCpOOCugo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1465,10 +1469,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8g44Os44Kk44Ok44O844Gr5rih44GZ44OH44O844K/44Gu5Z6LCg==</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9saWIvYXJjLWxheWVyLWRhdGEnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gU2NhdHRlcnBsb3RMYXllcueUqOOBq+ODh+ODvOOCv+WkieaPmwo=</text>
       </register>
     </registers>
   </component>
