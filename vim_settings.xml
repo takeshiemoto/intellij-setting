@@ -60,12 +60,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1590965152998">
+      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1590980106676">
         <mark key="'" line="13" column="2" />
-        <mark key="[" line="87" column="32" />
-        <mark key="]" line="87" column="26" />
+        <mark key="[" line="52" column="20" />
+        <mark key="]" line="54" column="13" />
         <mark key="^" line="87" column="26" />
-        <mark key="." line="87" column="25" />
+        <mark key="." line="52" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/geo-works/apps/deck-gl-app/src/app/my-map/my-map.tsx" timestamp="1590973787188">
         <mark key="[" line="66" column="29" />
@@ -189,8 +189,27 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsYXllcnM9e3llcnN9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>serve(): void {
+    /** Products */
+    const product1 = new Product(1, &quot;ci&quot;, 100);
+    const product2 = new Product(2, &quot;朝鮮人参&quot;, 98);
+    const product3 = new Product(3, &quot;かぼちゃ&quot;, 120);
+
+    /** Users */
+    const user1 = new User(1, &quot;John&quot;);
+
+    /** Cashier*/
+    const cashier = new Cashier();
+
+    /** Shopping use case */
+    user1.addCart(product1);
+    user1.addCart(product2);
+    user1.addCart(product3);
+    user1.removeCart(product1);
+    user1.payMoney(cashier.calcAmount(user1.cart));
+    console.log(user1.money);
+  }</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -199,8 +218,25 @@
         <text>class</text>
       </register>
       <register name="0" type="4">
-        <text>enter() {
-    console.log('Shop enter!');
+        <text>serve(): void {
+    /** Products */
+    const product1 = new Product(1, &quot;ci&quot;, 100);
+    const product2 = new Product(2, &quot;朝鮮人参&quot;, 98);
+    const product3 = new Product(3, &quot;かぼちゃ&quot;, 120);
+
+    /** Users */
+    const user1 = new User(1, &quot;John&quot;);
+
+    /** Cashier*/
+    const cashier = new Cashier();
+
+    /** Shopping use case */
+    user1.addCart(product1);
+    user1.addCart(product2);
+    user1.addCart(product3);
+    user1.removeCart(product1);
+    user1.payMoney(cashier.calcAmount(user1.cart));
+    console.log(user1.money);
   }</text>
       </register>
       <register name="1" type="2">
