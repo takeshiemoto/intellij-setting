@@ -21,6 +21,9 @@
         <entry encoding="base64">XDxIdW1hblw+</entry>
         <entry>human</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
+        <entry encoding="base64">XDxwXD4=</entry>
+        <entry encoding="base64">XDxoMlw+</entry>
+        <entry>これ最高やん！</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -156,11 +159,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" timestamp="1591022379477">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="20" />
+      <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" timestamp="1591045891909">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/WDB112-Toku3-Scala/slack-random-pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590876240764">
         <mark key="'" line="0" column="0" />
@@ -244,45 +247,47 @@
       <jump line="14" column="18" filename="$USER_HOME$/IdeaProjects/learn-vim/Hello.ts" />
       <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/package.json" />
+      <jump line="11" column="18" filename="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>lint</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHtqCg==</text>
       </register>
       <register name="-" type="4">
-        <text>lint</text>
+        <text>これ最高やん！</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVc2VyXD4=</text>
+        <text>これ最高やん！</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJmb3JtYXQ6d3JpdGUiOiAibnggZm9ybWF0OndyaXRlIiwKICAgICJmb3JtYXQ6Y2hlY2siOiAibnggZm9ybWF0OmNoZWNrIiwK</text>
+        <text encoding="base64">ICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHtqCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIEFuZ3VsYXI8L2gxPgogICAgICA8aDE+SGVsbG8gVnVlPC9oMT4KICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXIgZnJvbSAnLi9zdGFyLnN2Zyc7Cg==</text>
+        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVhY3RDb21wb25lbnQgYXMgTG9nbyB9IGZyb20gJy4vbG9nby5zdmcnOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImFwcCI+CiAgICAgIDxoMT7jgZPjgozmnIDpq5hw44KE44KT77yBPC9oMT4KICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+CiAgICAgIDxoMT7jgZPjgozmnIDpq5jjgoTjgpPvvIE8L2gxPgogICAgICA8aDE+44GT44KM5pyA6auY44KE44KT77yBPC9oMT4KICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+CiAgICA8L2Rpdj4KICApOwp9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKgogICAqIFJlcGxhY2UgdGhlIGVsZW1lbnRzIGJlbG93IHdpdGggeW91ciBvd24uCiAgICoKICAgKiBOb3RlOiBUaGUgY29ycmVzcG9uZGluZyBzdHlsZXMgYXJlIGluIHRoZSAuL2FwcC5zY3NzIGZpbGUuCiAgICovCg==</text>
+        <text encoding="base64">ICAgICAgaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPSJhcHAiPgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgaDIKICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9ImZsZXgiPgogICAgICAgIDxMb2dvIHdpZHRoPSI3NSIgaGVpZ2h0PSI3NSIgLz4KICAgICAgICA8aDE+V2VsY29tZSB0byBob29rcy1nZXQtc3RhcnRlZCE8L2gxPgogICAgICA8L2hlYWRlcj4KICAgICAgPG1haW4+CiAgICAgICAgPGgyPlJlc291cmNlcyAmYW1wOyBUb29sczwvaDI+CiAgICAgICAgPHA+VGhhbmsgeW91IGZvciB1c2luZyBhbmQgc2hvd2luZyBzb21lIOKZpSBmb3IgTnguPC9wPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGdpdGh1Yi1zdGFyLWNvbnRhaW5lciI+CiAgICAgICAgICA8YQogICAgICAgICAgICBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vbnJ3bC9ueCIKICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIKICAgICAgICAgID4KICAgICAgICAgICAgeycgJ30KICAgICAgICAgICAgSWYgeW91IGxpa2UgTngsIHBsZWFzZSBnaXZlIGl0IGEgc3RhcjoKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdpdGh1Yi1zdGFyLWJhZGdlIj4KICAgICAgICAgICAgICA8aW1nIHNyYz17c3Rhcn0gY2xhc3NOYW1lPSJtYXRlcmlhbC1pY29ucyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgU3RhcgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4KICAgICAgICA8cD5IZXJlIGFyZSBzb21lIGxpbmtzIHRvIGhlbHAgeW91IGdldCBzdGFydGVkLjwvcD4KICAgICAgICA8dWwgY2xhc3NOYW1lPSJyZXNvdXJjZXMiPgogICAgICAgICAgPGxpIGNsYXNzTmFtZT0iY29sLXNwYW4tMiI+CiAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJyZXNvdXJjZSBmbGV4IgogICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vY29ubmVjdC5ucndsLmlvL2FwcC9jb3Vyc2VzL254LXdvcmtzcGFjZXMvaW50cm8iCiAgICAgICAgICAgID4KICAgICAgICAgICAgICBOeCB2aWRlbyBjb3Vyc2UKICAgICAgICAgICAgPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzc05hbWU9ImNvbC1zcGFuLTIiPgogICAgICAgICAgICA8YQogICAgICAgICAgICAgIGNsYXNzTmFtZT0icmVzb3VyY2UgZmxleCIKICAgICAgICAgICAgICBocmVmPSJodHRwczovL254LmRldi9yZWFjdC9nZXR0aW5nLXN0YXJ0ZWQvd2hhdC1pcy1ueCIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIE54IHZpZGVvIHR1dG9yaWFsCiAgICAgICAgICAgIDwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGkgY2xhc3NOYW1lPSJjb2wtc3Bhbi0yIj4KICAgICAgICAgICAgPGEKICAgICAgICAgICAgICBjbGFzc05hbWU9InJlc291cmNlIGZsZXgiCiAgICAgICAgICAgICAgaHJlZj0iaHR0cHM6Ly9ueC5kZXYvcmVhY3QvdHV0b3JpYWwvMDEtY3JlYXRlLWFwcGxpY2F0aW9uIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgSW50ZXJhY3RpdmUgdHV0b3JpYWwKICAgICAgICAgICAgPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzc05hbWU9ImNvbC1zcGFuLTIiPgogICAgICAgICAgICA8YSBjbGFzc05hbWU9InJlc291cmNlIGZsZXgiIGhyZWY9Imh0dHBzOi8vbnguYXBwLyI+CiAgICAgICAgICAgICAgPHN2ZwogICAgICAgICAgICAgICAgd2lkdGg9IjM2IgogICAgICAgICAgICAgICAgaGVpZ2h0PSIzNiIKICAgICAgICAgICAgICAgIHZpZXdCb3g9IjAgMCAxMjAgMTIwIgogICAgICAgICAgICAgICAgZmlsbD0ibm9uZSIKICAgICAgICAgICAgICAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8cGF0aAogICAgICAgICAgICAgICAgICBkPSJNMTIwIDE1VjMwQzEwMy40NCAzMCA5MCA0My40NCA5MCA2MEM5MCA3Ni41NiA3Ni41NiA5MCA2MCA5MEM0My40NCA5MCAzMCAxMDMuNDQgMzAgMTIwSDE1QzYuNzIgMTIwIDAgMTEzLjI4IDAgMTA1VjE1QzAgNi43MiA2LjcyIDAgMTUgMEgxMDVDMTEzLjI4IDAgMTIwIDYuNzIgMTIwIDE1WiIKICAgICAgICAgICAgICAgICAgZmlsbD0iIzBFMjAzOSIKICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8cGF0aAogICAgICAgICAgICAgICAgICBkPSJNMTIwIDMwVjEwNUMxMjAgMTEzLjI4IDExMy4yOCAxMjAgMTA1IDEyMEgzMEMzMCAxMDMuNDQgNDMuNDQgOTAgNjAgOTBDNzYuNTYgOTAgOTAgNzYuNTYgOTAgNjBDOTAgNDMuNDQgMTAzLjQ0IDMwIDEyMCAzMFoiCiAgICAgICAgICAgICAgICAgIGZpbGw9IndoaXRlIgogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Imd1dHRlci1sZWZ0Ij5OeCBDbG91ZDwvc3Bhbj4KICAgICAgICAgICAgPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICA8L3VsPgogICAgICAgIDxoMj5OZXh0IFN0ZXBzPC9oMj4KICAgICAgICA8cD5IZXJlIGFyZSBzb21lIHRoaW5ncyB5b3UgY2FuIGRvIHdpdGggTnguPC9wPgogICAgICAgIDxkZXRhaWxzIG9wZW4+CiAgICAgICAgICA8c3VtbWFyeT5BZGQgVUkgbGlicmFyeTwvc3VtbWFyeT4KICAgICAgICAgIDxwcmU+e2AjIEdlbmVyYXRlIFVJIGxpYgpueCBnIEBucndsL3JlYWN0OmxpYiB1aQoKIyBBZGQgYSBjb21wb25lbnQKbnggZyBAbnJ3bC9yZWFjdDpjb21wb25lbnQgeHl6IC0tcHJvamVjdCB1aWB9PC9wcmU+CiAgICAgICAgPC9kZXRhaWxzPgogICAgICAgIDxkZXRhaWxzPgogICAgICAgICAgPHN1bW1hcnk+VmlldyBkZXBlbmRlbmN5IGdyYXBoPC9zdW1tYXJ5PgogICAgICAgICAgPHByZT57YG54IGRlcC1ncmFwaGB9PC9wcmU+CiAgICAgICAgPC9kZXRhaWxzPgogICAgICAgIDxkZXRhaWxzPgogICAgICAgICAgPHN1bW1hcnk+UnVuIGFmZmVjdGVkIGNvbW1hbmRzPC9zdW1tYXJ5PgogICAgICAgICAgPHByZT57YCMgc2VlIHdoYXQncyBiZWVuIGFmZmVjdGVkIGJ5IGNoYW5nZXMKbnggYWZmZWN0ZWQ6ZGVwLWdyYXBoCgojIHJ1biB0ZXN0cyBmb3IgY3VycmVudCBjaGFuZ2VzCm54IGFmZmVjdGVkOnRlc3QKCiMgcnVuIGUyZSB0ZXN0cyBmb3IgY3VycmVudCBjaGFuZ2VzCm54IGFmZmVjdGVkOmUyZQpgfTwvcHJlPgogICAgICAgIDwvZGV0YWlscz4KICAgICAgPC9tYWluPgo=</text>
+        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgyPkkgbGlrZSB2aW08L2gyPgogICAgICA8aDI+SSBsaWtlIHZpbTwvaDI+CiAgICAgIDxoMj5JIGxpa2UgdmltPC9oMj4KICAgICAgPHA+SSBsaWtlIHZpbTwvcD4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -342,10 +347,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIqLmpzIjogImVzbGludCAtLWNhY2hlIC0tZml4IiwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgdXNlcjEwID0gbmV3IFVzZXIoJ211cmFtYXR1cycsICdhcmloaXRvJyk7ago=</text>
+        <text encoding="base64">ICAgICAgPHA+SSBsaWtlIHZpbTwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -354,9 +359,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxVc2VyXD4=</last-search>
+      <last-search>これ最高やん！</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVc2VyXD4=</last-pattern>
+      <last-pattern>これ最高やん！</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
