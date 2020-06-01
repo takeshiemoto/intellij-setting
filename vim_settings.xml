@@ -15,6 +15,8 @@
         <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry>number</entry>
         <entry encoding="base64">XDxpZFw+</entry>
+        <entry encoding="base64">XDxoZWxsb1w+</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -58,6 +60,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -83,6 +88,17 @@
         <mark key="]" line="67" column="23" />
         <mark key="^" line="67" column="23" />
         <mark key="." line="67" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/learn-vim/hello.txt" timestamp="1591017323270">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/learn-vim/Hello.ts" timestamp="1591018704130">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/log1.ts" timestamp="1590973644526">
         <mark key="'" line="1" column="20" />
@@ -157,12 +173,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackMemberPoster.scala" timestamp="1590875067818">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackMemberPoster.scala" />
@@ -221,64 +231,46 @@
       <jump line="1" column="2" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="26" column="14" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="27" column="9" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
+      <jump line="13" column="33" filename="$USER_HOME$/IdeaProjects/learn-vim/Hello.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>number</text>
+        <text>ishida</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>ishida</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZFw+</text>
+        <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>serve(): void {
-    /** Products */
-    const product1 = new Product(1, &quot;ci&quot;, 100);
-    const product2 = new Product(2, &quot;朝鮮人参&quot;, 98);
-    const product3 = new Product(3, &quot;かぼちゃ&quot;, 120);
-
-    /** Users */
-    const user1 = new User(1, &quot;John&quot;);
-
-    /** Cashier*/
-    const cashier = new Cashier();
-
-    /** Shopping use case */
-    user1.addCart(product1);
-    user1.addCart(product2);
-    user1.addCart(product3);
-    user1.removeCart(product1);
-    user1.payMoney(cashier.calcAmount(user1.cart));
-    console.log(user1.money);
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGZpcnN0TmFtZTogc3RyaW5nID0gJyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFwIGc8Qy1OPiBnPEEtTj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFwIDxDLVg+ICA8QS1YPgo=</text>
+        <text encoding="base64">bGsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWFwIDxDLVA+ICA8QS1QPgo=</text>
+        <text encoding="base64">aGVsbG8gc2NhbGEKaSBsb3ZlIHNjYWxhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWFwIDxDLU4+ICA8QS1OPgo=</text>
+        <text encoding="base64">bGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgU2hvcCB7CiAgY29uc3RydWN0b3IocHJpdmF0ZSBwcm9kdWN0czogUHJvZHVjdFtdID0gW10pIHt9CgogIHNob3dQcm9kdWN0cygpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKHRoaXMucHJvZHVjdHMpOwogIH0KCiAgZW50ZXIoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBlbnRlciEnKTsKICB9CgogIGV4aXQoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBFeGl0IScpOwogIH0KCn0K</text>
+        <text encoding="base64">bWFwIGc8Qy1OPiBnPEEtTj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZDMgZnJvbSAnZDMK</text>
+        <text encoding="base64">bWFwIDxDLVg+ICA8QS1YPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Q29sb3JzOiB7CiAgICAgICAgZHVyYXRpb246IDUwMDAsCiAgICAgICAgZWFzaW5nOiB0ID0+IHQqdCp0LAogICAgICAgIGVudGVyOiAoKSA9PiBbMjU1LCAxNDAsIDAsIDBdIGFzIGFueSwgLy8gZmFkZSBpbgogICAgICB9LAo=</text>
+        <text encoding="base64">bWFwIDxDLVA+ICA8QS1QPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -338,10 +330,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRlcjogKHZhbHVlKSA9PiBbMF0gYXMgYW55LCAvLyDorI7jgIJudW1iZXLov5TjgZnjgajjgqLjg5fjg6rjgYzokL3jgaHjgosK</text>
+        <text encoding="base64">bWFwIDxDLU4+ICA8QS1OPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYW1waW5nOiAwLjE1LAo=</text>
+        <text encoding="base64">Y2xhc3MgU2hvcCB7CiAgY29uc3RydWN0b3IocHJpdmF0ZSBwcm9kdWN0czogUHJvZHVjdFtdID0gW10pIHt9CgogIHNob3dQcm9kdWN0cygpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKHRoaXMucHJvZHVjdHMpOwogIH0KCiAgZW50ZXIoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBlbnRlciEnKTsKICB9CgogIGV4aXQoKSB7CiAgICBjb25zb2xlLmxvZygnU2hvcCBFeGl0IScpOwogIH0KCn0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -350,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpZFw+</last-search>
+      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
