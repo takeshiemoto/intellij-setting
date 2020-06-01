@@ -72,7 +72,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590984986574">
+      <file name="/Dummy.txt" timestamp="1591022353977">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -117,12 +117,6 @@
         <mark key="[" line="1" column="49" />
         <mark key="^" line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/conf/routes" timestamp="1590875981861">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="8" />
-        <mark key="^" line="11" column="8" />
-        <mark key="." line="11" column="7" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/geo-logic/deckgl-sample/apps/deck-gl-app/src/app/my-map/my-map.tsx" timestamp="1590990458696">
         <mark key="[" line="34" column="8" />
         <mark key="]" line="34" column="9" />
@@ -134,6 +128,13 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/package.json" timestamp="1591022530535">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="70" column="19" />
+        <mark key="]" line="70" column="19" />
+        <mark key="." line="70" column="19" />
+        <mark key="^" line="70" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/generator.ts" timestamp="1590878074665">
         <mark key="'" line="46" column="12" />
@@ -155,11 +156,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/controllers/RandomPickController.scala" timestamp="1590875089335">
-        <mark key="[" line="38" column="55" />
-        <mark key="]" line="38" column="37" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="38" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" timestamp="1591022379477">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="20" />
       </file>
       <file name="$USER_HOME$/Downloads/WDB112-Toku3-Scala/slack-random-pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590876240764">
         <mark key="'" line="0" column="0" />
@@ -241,45 +242,47 @@
       <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/learn-vim/Hello.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/learn-vim/Hello.ts" />
       <jump line="14" column="18" filename="$USER_HOME$/IdeaProjects/learn-vim/Hello.ts" />
+      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdXNlcjEwID0gbmV3IFVzZXIoJ211cmFtYXR1cycsICdhcmloaXRvJyk7ago=</text>
+      <register name="&quot;" type="4">
+        <text>lint</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>lint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlcjEuc2F5RnVsbE5hbWUoKTsK</text>
+        <text encoding="base64">ICAgICJmb3JtYXQ6d3JpdGUiOiAibnggZm9ybWF0OndyaXRlIiwKICAgICJmb3JtYXQ6Y2hlY2siOiAibnggZm9ybWF0OmNoZWNrIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdXNlcjEwID0gbmV3IFVzZXIoJ211cmFtYXR1cycsICdhcmloaXRvJyk7ago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdXNlcjggPSBuZXcgVXNlcignVGF0c3VuYW1pJywgJ0thenV5b3NoaScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgdXNlcjggPSBuZXcgVXNlcignVGF0c3VuYW1pJywgJ0thenV5b3NoaScpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXIgZnJvbSAnLi9zdGFyLnN2Zyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIG5hbWU6IHN0cmluZyA9ICdOYW5hc2hpIENhcicpIHt9bwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVhY3RDb21wb25lbnQgYXMgTG9nbyB9IGZyb20gJy4vbG9nby5zdmcnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAvKgogICAqIFJlcGxhY2UgdGhlIGVsZW1lbnRzIGJlbG93IHdpdGggeW91ciBvd24uCiAgICoKICAgKiBOb3RlOiBUaGUgY29ycmVzcG9uZGluZyBzdHlsZXMgYXJlIGluIHRoZSAuL2FwcC5zY3NzIGZpbGUuCiAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPSJhcHAiPgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9ImZsZXgiPgogICAgICAgIDxMb2dvIHdpZHRoPSI3NSIgaGVpZ2h0PSI3NSIgLz4KICAgICAgICA8aDE+V2VsY29tZSB0byBob29rcy1nZXQtc3RhcnRlZCE8L2gxPgogICAgICA8L2hlYWRlcj4KICAgICAgPG1haW4+CiAgICAgICAgPGgyPlJlc291cmNlcyAmYW1wOyBUb29sczwvaDI+CiAgICAgICAgPHA+VGhhbmsgeW91IGZvciB1c2luZyBhbmQgc2hvd2luZyBzb21lIOKZpSBmb3IgTnguPC9wPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGdpdGh1Yi1zdGFyLWNvbnRhaW5lciI+CiAgICAgICAgICA8YQogICAgICAgICAgICBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vbnJ3bC9ueCIKICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIKICAgICAgICAgID4KICAgICAgICAgICAgeycgJ30KICAgICAgICAgICAgSWYgeW91IGxpa2UgTngsIHBsZWFzZSBnaXZlIGl0IGEgc3RhcjoKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdpdGh1Yi1zdGFyLWJhZGdlIj4KICAgICAgICAgICAgICA8aW1nIHNyYz17c3Rhcn0gY2xhc3NOYW1lPSJtYXRlcmlhbC1pY29ucyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgU3RhcgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4KICAgICAgICA8cD5IZXJlIGFyZSBzb21lIGxpbmtzIHRvIGhlbHAgeW91IGdldCBzdGFydGVkLjwvcD4KICAgICAgICA8dWwgY2xhc3NOYW1lPSJyZXNvdXJjZXMiPgogICAgICAgICAgPGxpIGNsYXNzTmFtZT0iY29sLXNwYW4tMiI+CiAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJyZXNvdXJjZSBmbGV4IgogICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vY29ubmVjdC5ucndsLmlvL2FwcC9jb3Vyc2VzL254LXdvcmtzcGFjZXMvaW50cm8iCiAgICAgICAgICAgID4KICAgICAgICAgICAgICBOeCB2aWRlbyBjb3Vyc2UKICAgICAgICAgICAgPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzc05hbWU9ImNvbC1zcGFuLTIiPgogICAgICAgICAgICA8YQogICAgICAgICAgICAgIGNsYXNzTmFtZT0icmVzb3VyY2UgZmxleCIKICAgICAgICAgICAgICBocmVmPSJodHRwczovL254LmRldi9yZWFjdC9nZXR0aW5nLXN0YXJ0ZWQvd2hhdC1pcy1ueCIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIE54IHZpZGVvIHR1dG9yaWFsCiAgICAgICAgICAgIDwvYT4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGkgY2xhc3NOYW1lPSJjb2wtc3Bhbi0yIj4KICAgICAgICAgICAgPGEKICAgICAgICAgICAgICBjbGFzc05hbWU9InJlc291cmNlIGZsZXgiCiAgICAgICAgICAgICAgaHJlZj0iaHR0cHM6Ly9ueC5kZXYvcmVhY3QvdHV0b3JpYWwvMDEtY3JlYXRlLWFwcGxpY2F0aW9uIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgSW50ZXJhY3RpdmUgdHV0b3JpYWwKICAgICAgICAgICAgPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaSBjbGFzc05hbWU9ImNvbC1zcGFuLTIiPgogICAgICAgICAgICA8YSBjbGFzc05hbWU9InJlc291cmNlIGZsZXgiIGhyZWY9Imh0dHBzOi8vbnguYXBwLyI+CiAgICAgICAgICAgICAgPHN2ZwogICAgICAgICAgICAgICAgd2lkdGg9IjM2IgogICAgICAgICAgICAgICAgaGVpZ2h0PSIzNiIKICAgICAgICAgICAgICAgIHZpZXdCb3g9IjAgMCAxMjAgMTIwIgogICAgICAgICAgICAgICAgZmlsbD0ibm9uZSIKICAgICAgICAgICAgICAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8cGF0aAogICAgICAgICAgICAgICAgICBkPSJNMTIwIDE1VjMwQzEwMy40NCAzMCA5MCA0My40NCA5MCA2MEM5MCA3Ni41NiA3Ni41NiA5MCA2MCA5MEM0My40NCA5MCAzMCAxMDMuNDQgMzAgMTIwSDE1QzYuNzIgMTIwIDAgMTEzLjI4IDAgMTA1VjE1QzAgNi43MiA2LjcyIDAgMTUgMEgxMDVDMTEzLjI4IDAgMTIwIDYuNzIgMTIwIDE1WiIKICAgICAgICAgICAgICAgICAgZmlsbD0iIzBFMjAzOSIKICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8cGF0aAogICAgICAgICAgICAgICAgICBkPSJNMTIwIDMwVjEwNUMxMjAgMTEzLjI4IDExMy4yOCAxMjAgMTA1IDEyMEgzMEMzMCAxMDMuNDQgNDMuNDQgOTAgNjAgOTBDNzYuNTYgOTAgOTAgNzYuNTYgOTAgNjBDOTAgNDMuNDQgMTAzLjQ0IDMwIDEyMCAzMFoiCiAgICAgICAgICAgICAgICAgIGZpbGw9IndoaXRlIgogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Imd1dHRlci1sZWZ0Ij5OeCBDbG91ZDwvc3Bhbj4KICAgICAgICAgICAgPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICA8L3VsPgogICAgICAgIDxoMj5OZXh0IFN0ZXBzPC9oMj4KICAgICAgICA8cD5IZXJlIGFyZSBzb21lIHRoaW5ncyB5b3UgY2FuIGRvIHdpdGggTnguPC9wPgogICAgICAgIDxkZXRhaWxzIG9wZW4+CiAgICAgICAgICA8c3VtbWFyeT5BZGQgVUkgbGlicmFyeTwvc3VtbWFyeT4KICAgICAgICAgIDxwcmU+e2AjIEdlbmVyYXRlIFVJIGxpYgpueCBnIEBucndsL3JlYWN0OmxpYiB1aQoKIyBBZGQgYSBjb21wb25lbnQKbnggZyBAbnJ3bC9yZWFjdDpjb21wb25lbnQgeHl6IC0tcHJvamVjdCB1aWB9PC9wcmU+CiAgICAgICAgPC9kZXRhaWxzPgogICAgICAgIDxkZXRhaWxzPgogICAgICAgICAgPHN1bW1hcnk+VmlldyBkZXBlbmRlbmN5IGdyYXBoPC9zdW1tYXJ5PgogICAgICAgICAgPHByZT57YG54IGRlcC1ncmFwaGB9PC9wcmU+CiAgICAgICAgPC9kZXRhaWxzPgogICAgICAgIDxkZXRhaWxzPgogICAgICAgICAgPHN1bW1hcnk+UnVuIGFmZmVjdGVkIGNvbW1hbmRzPC9zdW1tYXJ5PgogICAgICAgICAgPHByZT57YCMgc2VlIHdoYXQncyBiZWVuIGFmZmVjdGVkIGJ5IGNoYW5nZXMKbnggYWZmZWN0ZWQ6ZGVwLWdyYXBoCgojIHJ1biB0ZXN0cyBmb3IgY3VycmVudCBjaGFuZ2VzCm54IGFmZmVjdGVkOnRlc3QKCiMgcnVuIGUyZSB0ZXN0cyBmb3IgY3VycmVudCBjaGFuZ2VzCm54IGFmZmVjdGVkOmUyZQpgfTwvcHJlPgogICAgICAgIDwvZGV0YWlscz4KICAgICAgPC9tYWluPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -339,10 +342,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGAke3RoaXMuZmlyc3ROYW1lfSRgKWoK</text>
+        <text encoding="base64">ICAgICIqLmpzIjogImVzbGludCAtLWNhY2hlIC0tZml4IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGAke3RoaXMuZmlyc3ROYW1lfSRgKWoK</text>
+        <text encoding="base64">Y29uc3QgdXNlcjEwID0gbmV3IFVzZXIoJ211cmFtYXR1cycsICdhcmloaXRvJyk7ago=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
