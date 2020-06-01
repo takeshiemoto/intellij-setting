@@ -79,13 +79,17 @@
         <mark key="'" line="1" column="20" />
         <mark key="[" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/jointcrew/lunchiru-api/scripts/dev/db-item-create-33.json" timestamp="1590974782289">
+        <mark key="[" line="1" column="49" />
+        <mark key="^" line="1" column="50" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/slack_random_pick/conf/routes" timestamp="1590875981861">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="8" />
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/data.ts" timestamp="1590973801818">
+      <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/data.ts" timestamp="1590974607183">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="3" />
@@ -97,6 +101,9 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/echo.json" timestamp="1590974757650">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/log.ts" timestamp="1590973698516">
         <mark key="'" line="13" column="14" />
@@ -172,12 +179,14 @@
       <jump line="13" column="2" filename="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" />
       <jump line="1" column="20" filename="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/log1.ts" />
       <jump line="13" column="14" filename="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/log.ts" />
+      <jump line="8" column="18" filename="$USER_HOME$/Desktop/echo.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/echo.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>pk.eyJ1IjoiamVtb3R5IiwiYSI6ImNrYWI0NngycDEycmwyem1rdHZ2NWU5cWIifQ.RvKV8JDU-hB1Hu3HeUKOog'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiZGV2ZWxvcG1lbnQubHVuY2hpcnUuYXNoaXlhc2hpX2hvaWt1am9fbWVudXMiOiBdCg==</text>
       </register>
       <register name="-" type="4">
         <text>pk.eyJ1IjoiamVtb3R5IiwiYSI6ImNrYWI0NngycDEycmwyem1rdHZ2NWU5cWIifQ.RvKV8JDU-hB1Hu3HeUKOog'</text>
@@ -191,28 +200,1212 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9saWIvYXJjLWxheWVyLWRhdGEnOwo=</text>
+        <text encoding="base64">ICAiZGV2ZWxvcG1lbnQubHVuY2hpcnUuYXNoaXlhc2hpX2hvaWt1am9fbWVudXMiOiBdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gU2NhdHRlcnBsb3RMYXllcueUqOOBq+ODh+ODvOOCv+WkieaPmwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">WwogICAgCiAg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gU2NhdHRlcnBsb3RMYXllcuOBruODneOCpOODs+ODiOOCteOCpOOCugo=</text>
+      <register name="3" type="4">
+        <text>[
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;656&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200501&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;たけのこずし&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;お浸し&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;すまし汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;657&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200502&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;豚のプルコギ丼&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;豚のプルコギ丼&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;果物&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;658&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200507&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;キッズビビンバ&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;春雨スープ&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;トマト&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;659&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200508&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;チキン南蛮&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ほうれん草とツナの和え物&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;660&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200509&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ツナピラフ&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;胡瓜もみ&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;果物&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;661&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200511&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;けんちん焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;キャベツのゆかり和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;662&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200512&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;豚肉のごまみそ焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;いそか和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;キャベツとベーコンのスープ&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;663&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200513&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;魚の付け焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;梅肉和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;664&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200514&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ドライカレー&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;サワーキャベツ&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;665&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200515&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ロールパン&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;鮭のから揚げ甘酢あんかけ&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ゆで卵&quot;
+          },
+          &quot;smallBowl&quot;: {
+            &quot;S&quot;: &quot;ブロッコリー&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;666&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200516&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ひじきの御飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;桜干し&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;果物&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;667&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200518&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;鶏肉の照り焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ナムル&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;だいこんスープ&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;668&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200519&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ごぼうと豚肉の混ぜご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;しらす和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;かきたま汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;669&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200520&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;さばのカレー揚げ&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;中華和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;若竹汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;670&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200521&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ロールパン&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;鶏レバーのマーマレード煮&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ポテトサラダ&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;トマト&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;671&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200522&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;鮭のマヨネーズ焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;はりはり大根サラダ&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;672&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200523&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;カレーチャーハン&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;含め煮&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;果物&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;673&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200525&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;魚の塩焼きレモン添え&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;魚の塩焼きレモン添え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁（かぼちゃ）&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;674&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200526&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ロールパン&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;タンドリーチキン&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ジャーマンポテト&quot;
+          },
+          &quot;smallBowl&quot;: {
+            &quot;S&quot;: &quot;ブロッコリー&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;675&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200527&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;豆ごはん&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;豆ごはん&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ごま和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;すまし汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;676&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200528&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;鶏のオレンジ焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;切干大根サラダ&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;677&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200529&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;和風ハンバーグ&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ほうれん草とコーンのお浸し&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁（麩）&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;678&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200530&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;そぼろご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;南瓜の含め煮&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;果物&quot;
+          }
+        }
+      }
+    }
+  ]</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8g44Os44Kk44Ok44O844Gr5rih44GZ44OH44O844K/44Gu5Z6LCg==</text>
+      <register name="4" type="4">
+        <text>[
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;656&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200501&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;たけのこずし&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;お浸し&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;すまし汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;657&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200502&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;豚のプルコギ丼&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;豚のプルコギ丼&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;果物&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;658&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200507&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;キッズビビンバ&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;春雨スープ&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;トマト&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;659&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200508&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;チキン南蛮&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ほうれん草とツナの和え物&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;660&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200509&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ツナピラフ&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;胡瓜もみ&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;果物&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;661&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200511&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;けんちん焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;キャベツのゆかり和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;662&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200512&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;豚肉のごまみそ焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;いそか和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;キャベツとベーコンのスープ&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;663&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200513&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;魚の付け焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;梅肉和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;664&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200514&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ドライカレー&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;サワーキャベツ&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;665&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200515&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ロールパン&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;鮭のから揚げ甘酢あんかけ&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ゆで卵&quot;
+          },
+          &quot;smallBowl&quot;: {
+            &quot;S&quot;: &quot;ブロッコリー&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;666&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200516&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ひじきの御飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;桜干し&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;果物&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;667&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200518&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;鶏肉の照り焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ナムル&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;だいこんスープ&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;668&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200519&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ごぼうと豚肉の混ぜご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;しらす和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;かきたま汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;669&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200520&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;さばのカレー揚げ&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;中華和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;若竹汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;670&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200521&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ロールパン&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;鶏レバーのマーマレード煮&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ポテトサラダ&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;トマト&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;671&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200522&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;鮭のマヨネーズ焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;はりはり大根サラダ&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;672&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200523&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;カレーチャーハン&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;含め煮&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;果物&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;673&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200525&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;魚の塩焼きレモン添え&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;魚の塩焼きレモン添え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁（かぼちゃ）&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;674&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200526&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ロールパン&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;タンドリーチキン&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ジャーマンポテト&quot;
+          },
+          &quot;smallBowl&quot;: {
+            &quot;S&quot;: &quot;ブロッコリー&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;675&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200527&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;豆ごはん&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;豆ごはん&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ごま和え&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;すまし汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;676&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200528&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;鶏のオレンジ焼き&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;切干大根サラダ&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;677&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200529&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;ご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;和風ハンバーグ&quot;
+          },
+          &quot;sideDish&quot;: {
+            &quot;S&quot;: &quot;ほうれん草とコーンのお浸し&quot;
+          },
+          &quot;soup&quot;: {
+            &quot;S&quot;: &quot;みそ汁（麩）&quot;
+          }
+        }
+      }
+    },
+    {
+      &quot;PutRequest&quot;: {
+        &quot;Item&quot;: {
+          &quot;id&quot;: {
+            &quot;S&quot;: &quot;678&quot;
+          },
+          &quot;schoolId&quot;: {
+            &quot;S&quot;: &quot;1&quot;
+          },
+          &quot;date&quot;: {
+            &quot;S&quot;: &quot;20200530&quot;
+          },
+          &quot;stapleFood&quot;: {
+            &quot;S&quot;: &quot;そぼろご飯&quot;
+          },
+          &quot;mainDish&quot;: {
+            &quot;S&quot;: &quot;南瓜の含め煮&quot;
+          },
+          &quot;fruit&quot;: {
+            &quot;S&quot;: &quot;果物&quot;
+          }
+        }
+      }
+    }
+  ]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9saWIvYXJjLWxheWVyLWRhdGEnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjbGlja0xvZywK</text>
+        <text encoding="base64">Ly8gU2NhdHRlcnBsb3RMYXllcueUqOOBq+ODh+ODvOOCv+WkieaPmwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gZ2V0UmFkaXVzOiB7CiAgICAgIC8vICAgdHlwZTogJ3NwcmluZycsCiAgICAgIC8vICAgc3RpZmZuZXNzOiAwLjAxLAogICAgICAvLyAgIGRhbXBpbmc6IDAuMiwKICAgICAgLy8gICBlbnRlcjogKHZhbHVlKSA9PiBbMF0sIC8vIDHjgYvjgoky44Gr5ouh5aSnCiAgICAgIC8vIH0sCg==</text>
+        <text encoding="base64">Ly8gU2NhdHRlcnBsb3RMYXllcuOBruODneOCpOODs+ODiOOCteOCpOOCugo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -272,9 +1465,9 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8g44Os44Kk44Ok44O844Gr5rih44GZ44OH44O844K/44Gu5Z6LCg==</text>
       </register>
-      <register name="9" type="4">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
