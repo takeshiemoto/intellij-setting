@@ -17,6 +17,7 @@
       <history-cmd>
         <entry>sp</entry>
         <entry>vs</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -331,7 +332,7 @@
         <text encoding="base64">PGgxPmhlbGxvPC9oMT4K</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
   </component>
