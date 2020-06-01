@@ -76,7 +76,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591022353977">
+      <file name="/Dummy.txt" timestamp="1591048127939">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -153,6 +153,11 @@
       <file name="$USER_HOME$/IdeaProjects/geo-logic/mini-tokyo-3d/src/three-layer.js" timestamp="1590986789867">
         <mark key="'" line="77" column="15" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/components/heroes/heroes.tsx" timestamp="1591049264758">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/log.ts" timestamp="1590973698516">
         <mark key="'" line="13" column="14" />
         <mark key="[" line="13" column="21" />
@@ -160,18 +165,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" timestamp="1591046845521">
+      <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" timestamp="1591049090637">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="4" column="33" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/slack_random_pick/app/slack_apis/SlackChannelMemberGetter.scala" timestamp="1590876742914">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/index.ts" timestamp="1590973589033">
         <mark key="[" line="3" column="0" />
@@ -250,11 +249,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPGRpdj48c3Bhbj5uYW1lOiA8L3NwYW4+e2hlcm8ubmFtZX08L2Rpdj5kZAo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">PD4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -263,28 +262,28 @@
         <text encoding="base64">ICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIFJlYWN0PC9oMT4K</text>
+        <text encoding="base64">ICAgICAgPGRpdj48c3Bhbj5uYW1lOiA8L3NwYW4+e2hlcm8ubmFtZX08L2Rpdj5kZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHtqCg==</text>
+        <text encoding="base64">ICAgICAgPGgxPnt0aXRsZX08L2gxPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIEFuZ3VsYXI8L2gxPgogICAgICA8aDE+SGVsbG8gVnVlPC9oMT4KICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
+        <text encoding="base64">ICBjb25zdCBbaGVyb05hbWUsIGNoYW5nZUhlcm9OYW1lXSA9IHVzZVN0YXRlKGhlcm8pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBvbkNoYW5nZT17diA9PiBjaGFuZ2VIZXJvTmFtZSh2LnRhcmdldC52YWx1ZSl9Lz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImFwcCI+CiAgICAgIDxoMT7jgZPjgozmnIDpq5hw44KE44KT77yBPC9oMT4KICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+CiAgICAgIDxoMT7jgZPjgozmnIDpq5jjgoTjgpPvvIE8L2gxPgogICAgICA8aDE+44GT44KM5pyA6auY44KE44KT77yBPC9oMT4KICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+CiAgICA8L2Rpdj4KICApOwp9Owo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaAo=</text>
+        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIFJlYWN0PC9oMT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaDIKICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHtqCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -344,10 +343,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgxPkhlbGxvIG15IHdvcmxkPC9oMT4KICAgICAgPGgyPkkgbGlrZSB2aW08L2gyPgogICAgICA8aDI+SSBsaWtlIHZpbTwvaDI+CiAgICAgIDxoMj5JIGxpa2UgdmltPC9oMj4KICAgICAgPHA+SSBsaWtlIHZpbTwvcD4K</text>
+        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIEFuZ3VsYXI8L2gxPgogICAgICA8aDE+SGVsbG8gVnVlPC9oMT4KICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
