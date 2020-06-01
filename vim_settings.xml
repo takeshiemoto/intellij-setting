@@ -13,6 +13,8 @@
         <entry encoding="base64">XDxwb2xsXD4=</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
+        <entry encoding="base64">XDxpZFw+</entry>
+        <entry>number</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -69,12 +71,12 @@
       <file name="$USER_HOME$/IdeaProjects/geo-logic/mini-tokyo-3d/src/mini-tokyo-3d.js" timestamp="1590985880578">
         <mark key="'" line="868" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1591004210878">
+      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/ec-app/ec-app.ts" timestamp="1591014573302">
         <mark key="'" line="74" column="0" />
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="52" column="18" />
-        <mark key="^" line="52" column="18" />
-        <mark key="." line="52" column="17" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="12" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="21" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/geo-works/apps/deck-gl-app/src/app/my-map/my-map.tsx" timestamp="1590973787188">
         <mark key="[" line="66" column="29" />
@@ -219,14 +221,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWFwIGc8Qy1OPiBnPEEtTj4K</text>
+      <register name="&quot;" type="4">
+        <text>number</text>
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdFw+</text>
+        <text>number</text>
       </register>
       <register name="0" type="4">
         <text>serve(): void {
@@ -344,12 +346,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb25zdFw+</last-search>
+      <last-search>number</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdFw+</last-pattern>
+      <last-pattern>number</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>class</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
