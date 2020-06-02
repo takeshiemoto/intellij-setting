@@ -76,6 +76,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/jointcrew/lunchiru-api/scripts/dev/db-item-create-33.json" timestamp="1590974782289">
+        <mark key="[" line="1" column="49" />
+        <mark key="^" line="1" column="50" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/data.ts" timestamp="1590974607183">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/geo-logic/geologic-admin/src/components/Shared/Simulation/SImulationContentDeliveryLocationGroupAddModal.vue" timestamp="1591059049833">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="16" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591048127939">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -91,12 +107,6 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/geo-works/apps/deck-gl-app/src/app/my-map/my-map.tsx" timestamp="1590973787188">
-        <mark key="[" line="66" column="29" />
-        <mark key="]" line="67" column="23" />
-        <mark key="^" line="67" column="23" />
-        <mark key="." line="67" column="22" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/learn-vim/hello.txt" timestamp="1591017323270">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="18" column="0" />
@@ -108,18 +118,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/log1.ts" timestamp="1590973644526">
-        <mark key="'" line="1" column="20" />
-        <mark key="[" line="1" column="21" />
-      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1591004202578">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/jointcrew/lunchiru-api/scripts/dev/db-item-create-33.json" timestamp="1590974782289">
-        <mark key="[" line="1" column="49" />
-        <mark key="^" line="1" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/geo-logic/deckgl-sample/apps/deck-gl-app/src/app/my-map/my-map.tsx" timestamp="1590990458696">
         <mark key="[" line="34" column="8" />
@@ -127,11 +129,11 @@
         <mark key="." line="34" column="8" />
         <mark key="^" line="34" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/data.ts" timestamp="1590974607183">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/geo-logic/geologic-admin/src/components/Shared/Simulation/SimulationContentDeliverySidebarDeliveryPointSetting.vue" timestamp="1591059401913">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/package.json" timestamp="1591057761979">
         <mark key="'" line="0" column="0" />
@@ -140,13 +142,6 @@
         <mark key="." line="70" column="19" />
         <mark key="^" line="70" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learn-typescript/src/generator.ts" timestamp="1590878074665">
-        <mark key="'" line="46" column="12" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="2" />
-      </file>
       <file name="$USER_HOME$/Desktop/echo.json" timestamp="1590974757650">
         <mark key="'" line="0" column="0" />
       </file>
@@ -154,13 +149,6 @@
         <mark key="'" line="77" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/components/heroes/heroes.tsx" timestamp="1591049264758" />
-      <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/lib/log.ts" timestamp="1590973698516">
-        <mark key="'" line="13" column="14" />
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="19" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" timestamp="1591049090637">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
@@ -168,10 +156,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/geo-works/libs/data/src/index.ts" timestamp="1590973589033">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/geo-logic/geologic-admin/src/components/Shared/Simulation/SimulationContentDeliveryLocationGroupAddModal.vue" timestamp="1591059513856">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -241,45 +231,46 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/package.json" />
       <jump line="11" column="18" filename="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nx-react-simple-workspace/apps/hooks-get-started/src/app/app.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/geo-logic/geologic-admin/src/components/Shared/Simulation/SimulationContentDeliveryLocationGroupAddModal.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj48c3Bhbj5uYW1lOiA8L3NwYW4+e2hlcm8ubmFtZX08L2Rpdj5kZAo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PD4=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGgxPuOBk+OCjOacgOmrmOOChOOCk++8gTwvaDE+Cg==</text>
+        <text encoding="base64">aW1wb3J0IExvY2F0aW9uR3JvdXBJbXBvcnRNb2RhbCBmcm9tICcuL1NpbXVsYXRpb25Db250ZW50RGVsaXZlcnlMb2NhdGlvbkdyb3VwSW1wb3J0TW9kYWwnCmltcG9ydCBMb2NhdGlvbkdyb3VwQWRkTW9kYWwgZnJvbSAnLi9TaW11bGF0aW9uQ29udGVudERlbGl2ZXJ5TG9jYXRpb25Hcm91cEFkZE1vZGFsJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj48c3Bhbj5uYW1lOiA8L3NwYW4+e2hlcm8ubmFtZX08L2Rpdj5kZAo=</text>
+        <text encoding="base64">ICA8aDE+SGVsbG8gd29ybGQ8L2gxPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGgxPnt0aXRsZX08L2gxPgo=</text>
+        <text encoding="base64">ICAgIDxMb2NhdGlvbk1vZGFsQnVsa0FkZCAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBbaGVyb05hbWUsIGNoYW5nZUhlcm9OYW1lXSA9IHVzZVN0YXRlKGhlcm8pOwo=</text>
+        <text encoding="base64">ICBjb21wb25lbnRzOiB7ICwgTG9jYXRpb25Hcm91cEltcG9ydE1vZGFsIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBvbkNoYW5nZT17diA9PiBjaGFuZ2VIZXJvTmFtZSh2LnRhcmdldC52YWx1ZSl9Lz4K</text>
+        <text encoding="base64">aW1wb3J0IExvY2F0aW9uR3JvdXBBZGRNb2RhbCBmcm9tICcuL1NpbXVsYXRpb25Db250ZW50RGVsaXZlcnlMb2NhdGlvbkdyb3VwQWRkTW9kYWwnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IExvY2F0aW9uTW9kYWxCdWxrQWRkIGZyb20gJ0AvY29tcG9uZW50cy9BZHZlcnRpc2VyL09wZXJhdGlvbi9Qb2ludEdyb3VwL1BvaW50R3JvdXBPcGVyYXRpb24vUG9pbnRHcm91cC9Mb2NhdGlvbk1vZGFsQnVsa0FkZCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIFJlYWN0PC9oMT4K</text>
+        <text encoding="base64">ICAgIG5hbWU6ICJTSW11bGF0aW9uQ29udGVudERlbGl2ZXJ5TG9jYXRpb25Hcm91cEFkZE1vZGFsIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcCA9ICgpID0+IHtqCg==</text>
+        <text encoding="base64">ICAgICAgPGRpdj48c3Bhbj5uYW1lOiA8L3NwYW4+e2hlcm8ubmFtZX08L2Rpdj5kZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -339,10 +330,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIEFuZ3VsYXI8L2gxPgogICAgICA8aDE+SGVsbG8gVnVlPC9oMT4KICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgPGgxPnt0aXRsZX08L2gxPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
+        <text encoding="base64">ICBjb25zdCBbaGVyb05hbWUsIGNoYW5nZUhlcm9OYW1lXSA9IHVzZVN0YXRlKGhlcm8pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
